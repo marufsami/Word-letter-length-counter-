@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+
+#word {
+    width: 80%;
+    padding: 10px 10px;
+}
+
+h1 {
+    text-align: center;
+}
